@@ -1,0 +1,25 @@
+.title {
+    text-align: center;
+    margin: 50px;
+}
+.whole-box {
+    margin: 50px 0px;
+}
+.left-side {
+    max-width: 50%;
+}
+.contactList-title {
+    margin-bottom: 10px;
+}
+.search-area {
+    margin-bottom: 15px;
+}
+.contactItem-box {
+    margin: 15px;
+}
+.contactItem-each {
+    border: 2px solid rgb(36, 140, 200);
+    border-radius: 15px;
+    max-width: 90%;
+    padding: 10px;
+}
